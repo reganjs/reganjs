@@ -8,7 +8,6 @@ Fall of 2022!
 
 ✍🏻 I am studying at Lighthouse Labs so I can create my own mobile applications. I am taking their Full-Stack Software Engineer program. 
 #
-Some of the software/tools I like to use:
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
