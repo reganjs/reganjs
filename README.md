@@ -1,9 +1,26 @@
-#
-👋🏻 Hello, everyone, happy to meet you!
 
-👨🏻‍💻 I am the Technical Lead at Measur. I am also an aspiring Full-Stack Software Engineer. I work with large enterprise grade drones and UAVS on a daily basis. Seeing as I work with drones, I am also a licensed RPAS Advanced Pilot. I get to fly large drones like the Trinity F90+ and DJI Matrice RTK 300. I mainly provide IT services to the company that I work at but I also create technical documentation, host technical webinars, provide IT support, and train co-workers and customers on IT practices. I hope to begin coding more mobile applications in the Fall of 2022! 
+<h1>👋🏻 Hello everyone, happy to meet you</h1>
 
-✍🏻 I am studying at Lighthouse Labs so I can create my own mobile applications. I am taking their Full-Stack Software Engineer program. 
+Below is a bit about who I am and my story. 
+
+### allAboutMe.js
+
+```javascript
+const regan = {
+    pronouns: "he" | "him",
+    code: [Javascript, Python, C++, Ruby on Rails],
+    tools: [GitHub, Git, StackOverflow, Discord, Slack, JIRA, Chrome DevTools],
+    ide: [Pycharm, Visual Studio Code, Atom],
+    frontend: [HTML5, CSS3, jQuery]
+    extra: [MongoDB, MySQL, SQL, Chai, Selenium, Mocha, NODE, React]
+    hobbies: {
+                   sports: ["Golf", "Tennis", "Fishing", "Badminton"],
+                   other:  ["Cooking", "Coding", "Photography"],
+                                                                           },
+    challenge: "I am spending 2022 coding daily. I am aiming for 365 days of code."
+}
+```
+
 #
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
@@ -17,12 +34,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 #
 
-Here's a bit about me:
 
-🚁 I currently work at Measur in Calgary, Alberta.
-🐕 I have a wonderful Golden Doodle named Strudel! 
-💭 Chat with me about tennis, golf, fantasy sports, mental health, pets, cooking or really anything you like! I have many interests. 
-📫 You can ping me or reach out to me on LinkedIn at https://www.linkedin.com/in/regansetter/.
+My story: 
+
+I spent the early years of my career working in the railway industry as a conductor. I often found myself going to work at 02:00 AM with little sleep and 12 work hours ahead of me. Eventually, after a gruelling few years I interviewed as a Rail Traffic Controller at a Railway Company I was working at. Shortly after my interview I received a phone call from another company for a position that would have me working as an IT Support Analyst. I took it! I left the railway industry behind and took a drastic pay cut to learn about IT. It wasn't easy but let me tell you, it was worth it. Fast forward to 2021. I quit my job as an IT Analyst during the Great Resignation and I accepted a new position as a Technical Lead. I enrolled in LHL's Full-Stack Web Development program and am now currently honing my development skills. I'm looking forward to creating mobile applications for my current company this Fall season of 2022. Afterwards I look forward to learning about Data Engineering and Blockchain Development.
+
+If you're an aspiring Software Engineer, please don't hesitate to reach out to me. I regularly review resumes and LinkedIn profiles. I'd be happy to help you and answer any questions you may have. You can reach out to me on LinkedIn at https://www.linkedin.com/in/regansetter/ or simply PING me on GitHub! 
+
 #
-☕️ If you enjoyed my profile you can reach out to me to share a virtual coffee with me. I'd love to message back and forth.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/regansetter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="regansetter" /></a></p><br><br>
 
