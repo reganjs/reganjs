@@ -22,6 +22,8 @@ const regan = {
 ```
 
 #
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
@@ -44,4 +46,3 @@ If you're an aspiring Software Engineer, please don't hesitate to reach out to m
 #
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/regansetter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="regansetter" /></a></p><br><br>
-
