@@ -1,10 +1,7 @@
 #
 👋🏻 Hello, everyone, happy to meet you!
 
-👨🏻‍💻 I am a Technical Lead and Full-Stack Software Engineer. I work with large enterprise grade drones and UAVS on a daily basis. Seeing as I work with drones, I am also a
-licensed RPAS Advanced Pilot. I get to fly large drones like the Trinity F90+ and DJI Matrice RTK 300. I mainly provide IT services to the company that I work at but I also create
-technical documentation, host technical webinars, provide IT support, and train co-workers and customers on IT practices. I hope to begin coding more mobile applications in the 
-Fall of 2022! 
+👨🏻‍💻 I am the Technical Lead at Measur and an aspiring Full-Stack Software Engineer. I work with large enterprise grade drones and UAVS on a daily basis. Seeing as I work with drones, I am also a licensed RPAS Advanced Pilot. I get to fly large drones like the Trinity F90+ and DJI Matrice RTK 300. I mainly provide IT services to the company that I work at but I also create technical documentation, host technical webinars, provide IT support, and train co-workers and customers on IT practices. I hope to begin coding more mobile applications in the Fall of 2022! 
 
 ✍🏻 I am studying at Lighthouse Labs so I can create my own mobile applications. I am taking their Full-Stack Software Engineer program. 
 #
