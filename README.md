@@ -1,7 +1,7 @@
 
 <h1>👋🏻 Hello everyone, happy to meet you</h1>
 
-Below is a bit about who I am and my story. 
+Thank you for viewing my GitHub profile page. I enjoy learning new technologies, meeting new people, and creating content! Below is a bit about me as a person, what I enjoy outside of web development, and my story. My story is a brief description of how I got into Software Engineering. 
 
 ### allAboutMe.js
 
@@ -21,6 +21,13 @@ const regan = {
 }
 ```
 
+Here is a bullet list of things I do to keep busy when I'm not studying or coding:
+
+- 🧑🏻‍💻 Working as the Tech Lead at Measur in Calgary, AB.
+- 🐕 Taking care of my Golden Doodle, STRUDEL! She is a handful.
+- 🏌️‍♂️ Working on my golf swing. No seriously, this is a full-time job all by itself.
+- 🍽 Trying new restauraunts or cafes. I love coffee and most types of cuisine! I also spend a lot of time cooking.
+
 #
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -38,7 +45,7 @@ const regan = {
 
 My story: 
 
-I spent the early years of my career working in the railway industry as a conductor. I often found myself going to work at 02:00 AM with little sleep and 12 work hours ahead of me. Eventually, after a gruelling few years I interviewed as a Rail Traffic Controller at a Railway Company I was working at. Shortly after my interview I received a phone call from another company for a position that would have me working as an IT Support Analyst. I took it! I left the railway industry behind and took a drastic pay cut to learn about IT. It wasn't easy but let me tell you, it was worth it. Fast forward to 2021. I quit my job as an IT Analyst during the Great Resignation and I accepted a new position as a Technical Lead. I enrolled in LHL's Full-Stack Web Development program and am now currently honing my development skills. I'm looking forward to creating mobile applications for my current company this Fall season of 2022. Afterwards I look forward to learning about Data Engineering and Blockchain Development.
+I spent the early years of my career working in the railway industry as a conductor. I often found myself going to work at 02:00 AM with little sleep and 12 work hours ahead of me. Eventually, after a gruelling few years I interviewed as a Rail Traffic Controller at a Railway Company I was working at. Shortly after my interview I received a phone call from another company for a position that would have me working as an IT Support Analyst. I took it! I left the railway industry behind and took a drastic pay cut to learn about IT. It wasn't easy but let me tell you, it was worth it. Fast forward to 2021. I quit my job as an IT Analyst during the Great Resignation and I accepted a new position as a Technical Lead. I enrolled in LHL's Full-Stack Web Development program and am now currently honing my development skills. I'm looking forward to creating mobile applications for my current company this Fall season of 2022. Afterwards I look forward to learning about Data Engineering and Blockchain Development. What a ride it's been!
 
 If you're an aspiring Software Engineer, please don't hesitate to reach out to me. I regularly review resumes and LinkedIn profiles. I'd be happy to help you and answer any questions you may have. You can reach out to me on LinkedIn at https://www.linkedin.com/in/regansetter/ or simply PING me on GitHub! 
 
