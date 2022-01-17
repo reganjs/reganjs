@@ -17,7 +17,7 @@ const regan = {
                    sports: ["Golf", "Tennis", "Fishing", "Badminton"],
                    other:  ["Cooking", "Coding", "Photography"],
                                                                            },
-    challenge: "I am focusing on improving my coding ability for 2022. I will be attempting to write code once per day for 365 days."
+    challenge: "I am focusing on improving my coding skills for 2022. I will be attempting to write code once per day for 300+ days this year."
 }
 ```
 
