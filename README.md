@@ -24,7 +24,7 @@ const regan = {
 Here is a bullet list of things I do to keep busy when I'm not studying or coding:
 
 - 🧑🏻‍💻 Working as the Tech Lead at Measur in Calgary, AB.
-- 🐕 Taking care of my Golden Doodle, STRUDEL! She is a handful.
+- 🐕 Taking my Golden Doodle STRUDEL on walks. She is a handful.
 - 🏌️‍♂️ Working on my golf swing. No seriously, this is a full-time job all by itself.
 - 🍽 Trying new restauraunts or cafes. I love coffee and most types of cuisine! I also spend a lot of time cooking.
 
