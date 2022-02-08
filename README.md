@@ -43,7 +43,7 @@ Here is a bullet list of things I do to keep busy when I'm not studying or codin
 #
 
 
-<h1>My story:</h1>
+<h3>My story:</h1>
 
 I spent the early years of my career working in the railway industry as a conductor. I often found myself going to work at 02:00 AM with little sleep and 12 work hours ahead of me. Eventually, after a few gruelling years I interviewed as a Rail Traffic Controller at a Railway Company I was working at. Shortly after my interview I received a phone call from another company for a position that would have me working as an IT Support Analyst. I took it! I left the railway industry behind and took a drastic pay cut to learn about IT. It wasn't easy but let me tell you, it was worth it. Fast forward to 2021. I quit my job as an IT Analyst during the Great Resignation and I accepted a new position as a Technical Lead. I enrolled in LHL's Full-Stack Web Development program and am now currently honing my development skills. I'm looking forward to creating mobile applications for my current company this Fall season of 2022. Afterwards I look forward to learning about Data Engineering and Blockchain Development. What a ride it's been!
 
