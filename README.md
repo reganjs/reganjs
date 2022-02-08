@@ -50,5 +50,5 @@ I spent the early years of my career working in the railway industry as a conduc
 If you're an aspiring Software Engineer, please don't hesitate to reach out to me. I regularly review resumes and LinkedIn profiles and provide advice to future Engineers on r/learnProgramming, r/softwareEngineering and r/itCareerQuestions. I'd be happy to help you and answer any questions you may have. You can reach out to me on LinkedIn at https://www.linkedin.com/in/regansetter/.
 
 #
-<h3 align="left">Support:</h3>
+<h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/regansetter"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="regansetter" /></a></p><br><br>
