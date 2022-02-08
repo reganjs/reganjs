@@ -1,5 +1,5 @@
 
-<h1>👋🏻 Hello everyone, happy to meet you</h1>
+<h1>👋🏻 Hello everyone, happy to meet you!</h1>
 
 Thank you for viewing my GitHub profile page. I enjoy learning new technologies, meeting new people, and creating content! Below is a bit about me as a person, what I enjoy outside of web development, and my story. My story is a brief description of how I got into the Tech Industry from a non-traditional path. 
 
