@@ -29,7 +29,7 @@ Here is a bullet list of things I do to keep busy when I'm not studying or codin
 - 🍽 Trying new restauraunts or cafes. I love coffee and most types of cuisine! I also spend a lot of time cooking.
 
 #
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
