@@ -6,7 +6,7 @@ Thank you for viewing my GitHub profile page. I enjoy learning new technologies,
 ### allAboutMe.js
 
 ```javascript
-const regan = {
+const aboutMe = {
     pronouns: "he" | "him",
     code: [Javascript, Python, C++, Ruby on Rails],
     tools: [GitHub, Git, StackOverflow, Discord, Slack, JIRA, Chrome DevTools],
