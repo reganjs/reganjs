@@ -18,6 +18,7 @@ const regan = {
                    other:  ["Cooking", "Coding", "Photography"],
                                                                            },
     challenge: "I am focusing on improving my coding skills for 2022. I will be attempting to write code once per day for 300+ days this year."
+```
 
 Here is a bullet list of things I do to keep busy when I'm not studying or coding:
 
