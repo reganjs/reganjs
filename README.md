@@ -5,19 +5,19 @@ Thank you for viewing my GitHub profile page. I enjoy learning new technologies,
 
 ### allAboutMe.js
 
-const aboutMe = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, C++, Ruby on Rails],
-  tools: [GitHub, Git, StackOverflow, Discord, Slack, JIRA, Chrome DevTools],
-  ide: [Pycharm, Visual Studio Code, Atom],
-  frontend: [HTML5, CSS3, jQuery]
-  extra: [MongoDB, MySQL, SQL, Chai, Selenium, Mocha, NODE, React]
-  hobbies: {
-    sports: ["Golf", "Tennis", "Fishing", "Badminton"],
-    other: ["Cooking", "Coding", "Photography", "Coffee", Entreprenurial Ventures],
-  },
-  challenge: "I am focusing on improving my coding skills for 2022. I will be attempting to write code once per day for 300+ days this year."
-};
+```javascript
+const regan = {
+    pronouns: "he" | "him",
+    code: [Javascript, Python, C++, Ruby on Rails],
+    tools: [GitHub, Git, StackOverflow, Discord, Slack, JIRA, Chrome DevTools],
+    ide: [Pycharm, Visual Studio Code, Atom],
+    frontend: [HTML5, CSS3, jQuery]
+    extra: [MongoDB, MySQL, SQL, Chai, Selenium, Mocha, NODE, React]
+    hobbies: {
+                   sports: ["Golf", "Tennis", "Fishing", "Badminton"],
+                   other:  ["Cooking", "Coding", "Photography"],
+                                                                           },
+    challenge: "I am focusing on improving my coding skills for 2022. I will be attempting to write code once per day for 300+ days this year."
 
 Here is a bullet list of things I do to keep busy when I'm not studying or coding:
 
