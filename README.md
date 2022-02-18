@@ -19,7 +19,7 @@ const aboutMe = {
     challenge: "I am focusing on improving my coding skills for 2022. I will be attempting to write code once per day for 300+ days this year."
 ```
 
-Here is a bullet list of things I do to keep busy when I'm not studying or coding:
+### Here is a bullet list of things I do to keep busy when I'm not studying or coding:
 
 - 🧑🏻‍💻 Working as the Tech Lead at Measur in Calgary, AB.
 - 🐕 Taking my Golden Doodle STRUDEL on walks. She is a handful.
