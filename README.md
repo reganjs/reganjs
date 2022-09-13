@@ -9,7 +9,7 @@ const aboutMe = {
     pronouns: "he" | "him",
     code: [Javascript, Python, C++, Ruby on Rails],
     tools: [GitHub, Git, StackOverflow, Discord, Slack, JIRA, Chrome DevTools],
-    ide: [Pycharm, Visual Studio Code, Atom],
+    ide: [Pycharm, Visual Studio Code],
     frontend: [HTML5, CSS3, jQuery]
     extra: [MongoDB, MySQL, SQL, Chai, Selenium, Mocha, NODE, React]
     hobbies: {
